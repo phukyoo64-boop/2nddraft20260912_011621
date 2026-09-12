@@ -1,0 +1,350 @@
+{
+  "timestamp": "20260912_011621",
+  "cast_names": [
+    "EVELYN",
+    "LUCAS",
+    "SARAH",
+    "MASON",
+    "OLIVIA",
+    "ZEKE",
+    "CHARLIE",
+    "RACHEL",
+    "JAIME",
+    "LINCOLN1",
+    "LINCOLN2",
+    "DESI",
+    "AMANDA",
+    "CASEY"
+  ],
+  "drafts": [
+    {
+      "title": "A Ghost Town and AI",
+      "reasoning": "The 'I' in the source is an unnamed narrator, likely Charlie Manson, who is narrating his thoughts and actions. This chunk involves Zeke, Charlie, and Desi, who are present in the scene. The dramatic conflict revolves around the fear of AI and its impact on jobs, with Zeke's desperate attempts to fight against it. The setting is a future city that has lost its vibrancy, resembling a ghost town, which fits the narrative of a declining future due to technological advancements.",
+      "scene": "The city street is quiet, with dim streetlights casting long shadows on the empty sidewalks. The buildings, once bustling with activity, now stand eerily still, their windows dark and lifeless. In the center of the street, Zeke, wearing a dark trench coat, paces back and forth, his cigarette hanging from his lips. Beside him, Charlie, in a suit, looks equally agitated, while Desi, looking confused and love-struck, watches the interaction unfold, her eyes wide with wonder.",
+      "dialogue": [
+        {
+          "character": "ZEKE",
+          "line": "Got to get rid of these pesky humans.",
+          "cast_type": "canonical",
+          "raw_name": "ZEKE",
+          "match_score": 1.0
+        },
+        {
+          "character": "CHARLIE",
+          "line": "Netflix bought Warner's, Warner's bought Skydance, Skydance bought NVIDIA, NVIDIA bought Netflix. AI is going to steal my job!",
+          "cast_type": "canonical",
+          "raw_name": "CHARLIE",
+          "match_score": 1.0
+        },
+        {
+          "character": "DESI",
+          "line": "Not all robots are bad.",
+          "cast_type": "canonical",
+          "raw_name": "DESII",
+          "match_score": 0.89
+        },
+        {
+          "character": "ZEKE",
+          "line": "That's not true. But they killed our parents!",
+          "cast_type": "canonical",
+          "raw_name": "ZEKE",
+          "match_score": 1.0
+        },
+        {
+          "character": "CHARLIE",
+          "line": "What next? That was the bad robots. I'm talking to the good robots.",
+          "cast_type": "canonical",
+          "raw_name": "CHARLIE",
+          "match_score": 1.0
+        },
+        {
+          "character": "DESI",
+          "line": "How do you tell the difference? My pronouns is most deaf, they, them, massa!",
+          "cast_type": "canonical",
+          "raw_name": "DESII",
+          "match_score": 0.89
+        },
+        {
+          "character": "ZEKE",
+          "line": "My pie, my pronouns, my pronouns is most deaf, they, them, massa!",
+          "cast_type": "canonical",
+          "raw_name": "ZEKE",
+          "match_score": 1.0
+        },
+        {
+          "character": "CHARLIE",
+          "line": "What those MAGA hillbillies don't know is that robots provide prosperity for all.",
+          "cast_type": "canonical",
+          "raw_name": "CHARLIE",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "git-aichive/2025_12_05_15_01_44_transcription.txt",
+      "topics_hit": [
+        "murder",
+        "robots",
+        "time travel"
+      ],
+      "keywords_hit": [
+        "ai",
+        "future",
+        "kill",
+        "robots"
+      ],
+      "dialogue_count": 8,
+      "speakers": [
+        "CHARLIE",
+        "DESI",
+        "ZEKE"
+      ]
+    },
+    {
+      "title": "The Future's Edge",
+      "reasoning": "The 'I' in the source is an unnamed narrator who is not a named cast member. This chunk involves Charlie, Dacey, and the setting of a lab where time travel is happening. The dramatic conflict is Charlie's desire to change the timeline, which Dacey sees as dangerous. The setting fits in a cluttered lab with holographic imagery and time travel gadgets.",
+      "scene": "A cluttered lab hums with the faint hum of machinery. Holographic images flicker across the walls, and time travel gadgets are scattered across the floor. The city outside the large glass window hums with the distant sound of sirens. In the center, a Volkswagen van painted in psychedelic colors is parked, its doors open to reveal Charlie Manson and his followers, Sadie and Tepz, who exchange nervous glances.",
+      "dialogue": [
+        {
+          "character": "CHARLIE",
+          "line": "Yeah, this isn't Charlie. You better get back to the future. This isn't some hippie orgy.",
+          "cast_type": "canonical",
+          "raw_name": "CHARLIE",
+          "match_score": 1.0
+        },
+        {
+          "character": "DACEY",
+          "line": "The city hums with the faint sound of sirens in the distance. A VW van painted in psychedelic colors pulls into a dimly lit alley. Charles Manson the notorious pulp needs sits in the driver's seat, his piercing eyes reflecting in the rearview mirror. Beside him are his two devoted followers, Sadie and Tepz, who exchange nervous glances.",
+          "cast_type": "visiting",
+          "raw_name": "DACEY",
+          "match_score": 0.6
+        },
+        {
+          "character": "NARRATOR",
+          "line": "Whisper almost to himself, tonight. We change the course of history. Tonight we ensure the masterpieces of murder never interrupted.",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.46
+        },
+        {
+          "character": "CHARLIE",
+          "line": "The van stops. Manson steps out, adjusting his leather jacket. He looks up at the sky where a faint glow flickers, signaling a rip in time.",
+          "cast_type": "canonical",
+          "raw_name": "CHARLIE",
+          "match_score": 1.0
+        },
+        {
+          "character": "NARRATOR",
+          "line": "The room is cluttered with gadgets and timelines mapped across the walls. Charlie, a self-proclaimed time travel consultant, tinkers with a strange device.",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.46
+        },
+        {
+          "character": "DACEY",
+          "line": "Dacey, his reluctant partner, enters, holding a peculiar-looking ray gun. Charlie, the warden gave me this. It's supposed to create positive conditions for someone but negative for everyone else.",
+          "cast_type": "visiting",
+          "raw_name": "DACEY",
+          "match_score": 0.6
+        },
+        {
+          "character": "CHARLIE",
+          "line": "Grinning. Oh, this is gonna be fun. Causality is about to get a serious makeover. Serious, it's not a game, Charlie. This could have real consequences.",
+          "cast_type": "canonical",
+          "raw_name": "CHARLIE",
+          "match_score": 1.0
+        },
+        {
+          "character": "DACEY",
+          "line": "Sign, relax, Dacey. I've got this under control. Now, where's the fun if you don't bend the rules a little?",
+          "cast_type": "visiting",
+          "raw_name": "DACEY",
+          "match_score": 0.6
+        },
+        {
+          "character": "NARRATOR",
+          "line": "Frustrated, you're not even listening. This isn't just about bending rules. It's about people's lives.",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.46
+        },
+        {
+          "character": "CHARLIE",
+          "line": "Before Dacey can argue further, the lab's computer beats a holographic image of Manson. His face twisted into a smirk. You think you can stop me, Charlie? You think you can rewrite the timeline?",
+          "cast_type": "canonical",
+          "raw_name": "CHARLIE",
+          "match_score": 1.0
+        },
+        {
+          "character": "NARRATOR",
+          "line": "Smirking back, Oh, Manson, you know me too. Well, I'm not here to stop you. I'm here to make it interesting. Interesting you call chaos interesting.",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.46
+        }
+      ],
+      "rank": 2,
+      "source_file": "git-aichive/2025_12_18_14_20_09_transcription.txt",
+      "topics_hit": [
+        "murder",
+        "robots",
+        "time travel"
+      ],
+      "keywords_hit": [
+        "chaos",
+        "future",
+        "time",
+        "travel"
+      ],
+      "dialogue_count": 11,
+      "speakers": [
+        "CHARLIE",
+        "DACEY",
+        "NARRATOR"
+      ]
+    },
+    {
+      "title": "Time's Echo",
+      "reasoning": "The 'I' in the source is an unnamed narrator, likely Charlie Manson, given his time-traveling nature. The chunk involves a mysterious narrator, a reference to robots, and touches on time travel, murder, and a conspiracy theory. The dramatic conflict revolves around the narrator's growing paranoia and the mysterious occurrences in their environment. A setting that fits is a dimly lit, technology-filled room with a view of the city outside, hinting at the intersection of the past and the future.",
+      "scene": "The dimly lit room is cluttered with screens displaying various images, from historical footage to futuristic robot advertisements. A window in the corner reveals the bustling city below, a stark contrast to the eerie silence of the room. A single desk with a laptop and a robot arm sits in the center, as if the room is a hybrid of the past and future.",
+      "dialogue": [
+        {
+          "character": "NARRATOR",
+          "line": "Years older than me... and this creepy Jew...",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.46
+        },
+        {
+          "character": "NARRATOR",
+          "line": "The water's gonna get a little wet...",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.46
+        },
+        {
+          "character": "CHARLIE",
+          "line": "What do you mean, the water's gonna get wet?",
+          "cast_type": "canonical",
+          "raw_name": "CHARLIE",
+          "match_score": 1.0
+        },
+        {
+          "character": "NARRATOR",
+          "line": "Oh yeah, so this is a fucking death threat...",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.46
+        },
+        {
+          "character": "NARRATOR",
+          "line": "Members of the Jewish Journal were like...",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.46
+        },
+        {
+          "character": "NARRATOR",
+          "line": "I can't tell what's going on...",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.46
+        },
+        {
+          "character": "CHARLIE",
+          "line": "Wait, you're receiving death threats?",
+          "cast_type": "canonical",
+          "raw_name": "CHARLIE",
+          "match_score": 1.0
+        },
+        {
+          "character": "NARRATOR",
+          "line": "I'm finding hundred dollar bills in the gutter...",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.46
+        },
+        {
+          "character": "CHARLIE",
+          "line": "Are you sure this isn't just...",
+          "cast_type": "canonical",
+          "raw_name": "CHARLIE",
+          "match_score": 1.0
+        },
+        {
+          "character": "NARRATOR",
+          "line": "Everyone in my neighborhood... undercover cops...",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.46
+        },
+        {
+          "character": "CHARLIE",
+          "line": "That's statistically unlikely...",
+          "cast_type": "canonical",
+          "raw_name": "CHARLIE",
+          "match_score": 1.0
+        },
+        {
+          "character": "NARRATOR",
+          "line": "Traveling nurses... drug dealers...",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.46
+        },
+        {
+          "character": "NARRATOR",
+          "line": "I just asked for Uber eats...",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.46
+        },
+        {
+          "character": "NARRATOR",
+          "line": "City council people... agonizing...",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.46
+        },
+        {
+          "character": "CHARLIE",
+          "line": "Automation is clearly affecting them...",
+          "cast_type": "canonical",
+          "raw_name": "CHARLIE",
+          "match_score": 1.0
+        },
+        {
+          "character": "NARRATOR",
+          "line": "Interesting how a robot...",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.46
+        },
+        {
+          "character": "CHARLIE",
+          "line": "Travis Kalanick... Uber eats...",
+          "cast_type": "canonical",
+          "raw_name": "CHARLIE",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 3,
+      "source_file": "git-aichive/2026-04-19-14-44-05_transcription.txt",
+      "topics_hit": [
+        "murder",
+        "robots",
+        "time travel"
+      ],
+      "keywords_hit": [
+        "kill",
+        "robots",
+        "time",
+        "travel"
+      ],
+      "dialogue_count": 17,
+      "speakers": [
+        "CHARLIE",
+        "NARRATOR"
+      ]
+    }
+  ]
+}
