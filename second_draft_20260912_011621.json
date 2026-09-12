@@ -346,5 +346,342 @@
         "NARRATOR"
       ]
     }
-  ]
+  ],
+  "voices": {
+    "generated_at": "20260912_012936",
+    "source_voice_repo": "phukyoo64-boop/18",
+    "char_map": {
+      "ZEKE": "Zeke",
+      "DACEY": "Casey",
+      "CHARLIE": "CHARLIE",
+      "NARRATOR": "Amanda",
+      "DESI": "Amanda"
+    },
+    "lines": [
+      {
+        "draft": 1,
+        "n": 1,
+        "character": "ZEKE",
+        "voice_dir": "Zeke",
+        "line": "Got to get rid of these pesky humans.",
+        "file": "draft1_line001_ZEKE.mp3",
+        "bytes": 17520
+      },
+      {
+        "draft": 1,
+        "n": 2,
+        "character": "CHARLIE",
+        "voice_dir": "CHARLIE",
+        "line": "Netflix bought Warner's, Warner's bought Skydance, Skydance bought NVIDIA, NVIDIA bought Netflix. AI is going to steal my job!",
+        "file": "draft1_line002_CHARLIE.mp3",
+        "bytes": 94008
+      },
+      {
+        "draft": 1,
+        "n": 3,
+        "character": "DESI",
+        "voice_dir": "Amanda",
+        "line": "Not all robots are bad.",
+        "file": "draft1_line003_DESI.mp3",
+        "bytes": 11208
+      },
+      {
+        "draft": 1,
+        "n": 4,
+        "character": "ZEKE",
+        "voice_dir": "Zeke",
+        "line": "That's not true. But they killed our parents!",
+        "file": "draft1_line004_ZEKE.mp3",
+        "bytes": 17976
+      },
+      {
+        "draft": 1,
+        "n": 5,
+        "character": "CHARLIE",
+        "voice_dir": "CHARLIE",
+        "line": "What next? That was the bad robots. I'm talking to the good robots.",
+        "file": "draft1_line005_CHARLIE.mp3",
+        "bytes": 54072
+      },
+      {
+        "draft": 1,
+        "n": 6,
+        "character": "DESI",
+        "voice_dir": "Amanda",
+        "line": "How do you tell the difference? My pronouns is most deaf, they, them, massa!",
+        "file": "draft1_line006_DESI.mp3",
+        "bytes": 42840
+      },
+      {
+        "draft": 1,
+        "n": 7,
+        "character": "ZEKE",
+        "voice_dir": "Zeke",
+        "line": "My pie, my pronouns, my pronouns is most deaf, they, them, massa!",
+        "file": "draft1_line007_ZEKE.mp3",
+        "bytes": 39552
+      },
+      {
+        "draft": 1,
+        "n": 8,
+        "character": "CHARLIE",
+        "voice_dir": "CHARLIE",
+        "line": "What those MAGA hillbillies don't know is that robots provide prosperity for all.",
+        "file": "draft1_line008_CHARLIE.mp3",
+        "bytes": 63960
+      },
+      {
+        "draft": 2,
+        "n": 1,
+        "character": "CHARLIE",
+        "voice_dir": "CHARLIE",
+        "line": "Yeah, this isn't Charlie. You better get back to the future. This isn't some hippie orgy.",
+        "file": "draft2_line001_CHARLIE.mp3",
+        "bytes": 66504
+      },
+      {
+        "draft": 2,
+        "n": 2,
+        "character": "DACEY",
+        "voice_dir": "Casey",
+        "line": "The city hums with the faint sound of sirens in the distance. A VW van painted in psychedelic colors pulls into a dimly lit alley. Charles Manson the notorious pulp needs sits in the driver's seat, his piercing eyes reflecting in the rearview mirror. Beside him are his two devoted followers, Sadie and Tepz, who exchange nervous glances.",
+        "file": "draft2_line002_DACEY.mp3",
+        "bytes": 180600
+      },
+      {
+        "draft": 2,
+        "n": 3,
+        "character": "NARRATOR",
+        "voice_dir": "Amanda",
+        "line": "Whisper almost to himself, tonight. We change the course of history. Tonight we ensure the masterpieces of murder never interrupted.",
+        "file": "draft2_line003_NARRATOR.mp3",
+        "bytes": 49920
+      },
+      {
+        "draft": 2,
+        "n": 4,
+        "character": "CHARLIE",
+        "voice_dir": "CHARLIE",
+        "line": "The van stops. Manson steps out, adjusting his leather jacket. He looks up at the sky where a faint glow flickers, signaling a rip in time.",
+        "file": "draft2_line004_CHARLIE.mp3",
+        "bytes": 109032
+      },
+      {
+        "draft": 2,
+        "n": 5,
+        "character": "NARRATOR",
+        "voice_dir": "Amanda",
+        "line": "The room is cluttered with gadgets and timelines mapped across the walls. Charlie, a self-proclaimed time travel consultant, tinkers with a strange device.",
+        "file": "draft2_line005_NARRATOR.mp3",
+        "bytes": 61800
+      },
+      {
+        "draft": 2,
+        "n": 6,
+        "character": "DACEY",
+        "voice_dir": "Casey",
+        "line": "Dacey, his reluctant partner, enters, holding a peculiar-looking ray gun. Charlie, the warden gave me this. It's supposed to create positive conditions for someone but negative for everyone else.",
+        "file": "draft2_line006_DACEY.mp3",
+        "bytes": 84144
+      },
+      {
+        "draft": 2,
+        "n": 7,
+        "character": "CHARLIE",
+        "voice_dir": "CHARLIE",
+        "line": "Grinning. Oh, this is gonna be fun. Causality is about to get a serious makeover. Serious, it's not a game, Charlie. This could have real consequences.",
+        "file": "draft2_line007_CHARLIE.mp3",
+        "bytes": 108408
+      },
+      {
+        "draft": 2,
+        "n": 8,
+        "character": "DACEY",
+        "voice_dir": "Casey",
+        "line": "Sign, relax, Dacey. I've got this under control. Now, where's the fun if you don't bend the rules a little?",
+        "file": "draft2_line008_DACEY.mp3",
+        "bytes": 52536
+      },
+      {
+        "draft": 2,
+        "n": 9,
+        "character": "NARRATOR",
+        "voice_dir": "Amanda",
+        "line": "Frustrated, you're not even listening. This isn't just about bending rules. It's about people's lives.",
+        "file": "draft2_line009_NARRATOR.mp3",
+        "bytes": 47400
+      },
+      {
+        "draft": 2,
+        "n": 10,
+        "character": "CHARLIE",
+        "voice_dir": "CHARLIE",
+        "line": "Before Dacey can argue further, the lab's computer beats a holographic image of Manson. His face twisted into a smirk. You think you can stop me, Charlie? You think you can rewrite the timeline?",
+        "file": "draft2_line010_CHARLIE.mp3",
+        "bytes": 123072
+      },
+      {
+        "draft": 2,
+        "n": 11,
+        "character": "NARRATOR",
+        "voice_dir": "Amanda",
+        "line": "Smirking back, Oh, Manson, you know me too. Well, I'm not here to stop you. I'm here to make it interesting. Interesting you call chaos interesting.",
+        "file": "draft2_line011_NARRATOR.mp3",
+        "bytes": 66552
+      },
+      {
+        "draft": 3,
+        "n": 1,
+        "character": "NARRATOR",
+        "voice_dir": "Amanda",
+        "line": "Years older than me... and this creepy Jew...",
+        "file": "draft3_line001_NARRATOR.mp3",
+        "bytes": 20592
+      },
+      {
+        "draft": 3,
+        "n": 2,
+        "character": "NARRATOR",
+        "voice_dir": "Amanda",
+        "line": "The water's gonna get a little wet...",
+        "file": "draft3_line002_NARRATOR.mp3",
+        "bytes": 14304
+      },
+      {
+        "draft": 3,
+        "n": 3,
+        "character": "CHARLIE",
+        "voice_dir": "CHARLIE",
+        "line": "What do you mean, the water's gonna get wet?",
+        "file": "draft3_line003_CHARLIE.mp3",
+        "bytes": 27072
+      },
+      {
+        "draft": 3,
+        "n": 4,
+        "character": "NARRATOR",
+        "voice_dir": "Amanda",
+        "line": "Oh yeah, so this is a fucking death threat...",
+        "file": "draft3_line004_NARRATOR.mp3",
+        "bytes": 16896
+      },
+      {
+        "draft": 3,
+        "n": 5,
+        "character": "NARRATOR",
+        "voice_dir": "Amanda",
+        "line": "Members of the Jewish Journal were like...",
+        "file": "draft3_line005_NARRATOR.mp3",
+        "bytes": 16488
+      },
+      {
+        "draft": 3,
+        "n": 6,
+        "character": "NARRATOR",
+        "voice_dir": "Amanda",
+        "line": "I can't tell what's going on...",
+        "file": "draft3_line006_NARRATOR.mp3",
+        "bytes": 11688
+      },
+      {
+        "draft": 3,
+        "n": 7,
+        "character": "CHARLIE",
+        "voice_dir": "CHARLIE",
+        "line": "Wait, you're receiving death threats?",
+        "file": "draft3_line007_CHARLIE.mp3",
+        "bytes": 27912
+      },
+      {
+        "draft": 3,
+        "n": 8,
+        "character": "NARRATOR",
+        "voice_dir": "Amanda",
+        "line": "I'm finding hundred dollar bills in the gutter...",
+        "file": "draft3_line008_NARRATOR.mp3",
+        "bytes": 18888
+      },
+      {
+        "draft": 3,
+        "n": 9,
+        "character": "CHARLIE",
+        "voice_dir": "CHARLIE",
+        "line": "Are you sure this isn't just...",
+        "file": "draft3_line009_CHARLIE.mp3",
+        "bytes": 27480
+      },
+      {
+        "draft": 3,
+        "n": 10,
+        "character": "NARRATOR",
+        "voice_dir": "Amanda",
+        "line": "Everyone in my neighborhood... undercover cops...",
+        "file": "draft3_line010_NARRATOR.mp3",
+        "bytes": 23712
+      },
+      {
+        "draft": 3,
+        "n": 11,
+        "character": "CHARLIE",
+        "voice_dir": "CHARLIE",
+        "line": "That's statistically unlikely...",
+        "file": "draft3_line011_CHARLIE.mp3",
+        "bytes": 26304
+      },
+      {
+        "draft": 3,
+        "n": 12,
+        "character": "NARRATOR",
+        "voice_dir": "Amanda",
+        "line": "Traveling nurses... drug dealers...",
+        "file": "draft3_line012_NARRATOR.mp3",
+        "bytes": 17544
+      },
+      {
+        "draft": 3,
+        "n": 13,
+        "character": "NARRATOR",
+        "voice_dir": "Amanda",
+        "line": "I just asked for Uber eats...",
+        "file": "draft3_line013_NARRATOR.mp3",
+        "bytes": 15576
+      },
+      {
+        "draft": 3,
+        "n": 14,
+        "character": "NARRATOR",
+        "voice_dir": "Amanda",
+        "line": "City council people... agonizing...",
+        "file": "draft3_line014_NARRATOR.mp3",
+        "bytes": 16704
+      },
+      {
+        "draft": 3,
+        "n": 15,
+        "character": "CHARLIE",
+        "voice_dir": "CHARLIE",
+        "line": "Automation is clearly affecting them...",
+        "file": "draft3_line015_CHARLIE.mp3",
+        "bytes": 33360
+      },
+      {
+        "draft": 3,
+        "n": 16,
+        "character": "NARRATOR",
+        "voice_dir": "Amanda",
+        "line": "Interesting how a robot...",
+        "file": "draft3_line016_NARRATOR.mp3",
+        "bytes": 11184
+      },
+      {
+        "draft": 3,
+        "n": 17,
+        "character": "CHARLIE",
+        "voice_dir": "CHARLIE",
+        "line": "Travis Kalanick... Uber eats...",
+        "file": "draft3_line017_CHARLIE.mp3",
+        "bytes": 28272
+      }
+    ]
+  }
 }
